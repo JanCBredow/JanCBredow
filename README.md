@@ -14,17 +14,11 @@
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JanCBredow&hide_title=true&bg_color=0d1117&text_color=0d9fde&hide_border=true)](https://github.com/JanCBredow/)
 
-## WakaTime Stats:
-
-[![Languages](https://github-readme-stats.vercel.app/api/wakatime?username=JanCBredow&hide_title=true&bg_color=0d1117&text_color=0d9fde&hide_border=true)](https://github.com/JanCBredow/)
-
 ## Stack
 
 * ![Bukkit Logo](https://raw.githubusercontent.com/JanCBredow/JanCBredow/master/bukkit.png) - [Bukkit](https://dev.bukkit.org/)
 * ![Bungeecord Logo](https://raw.githubusercontent.com/JanCBredow/JanCBredow/master/bungeecord.png) - [Bungeecord](https://www.spigotmc.org/wiki/bungeecord/)
 * ![GitHub Logo](https://raw.githubusercontent.com/JanCBredow/JanCBredow/master/github.png) - [GitHub](https://github.com/)
-* ![gRPC Logo](https://raw.githubusercontent.com/JanCBredow/JanCBredow/master/grpc.png) - [gRPC](https://grpc.io/)
-* ![Hibernate Logo](https://raw.githubusercontent.com/JanCBredow/JanCBredow/master/hibernate.png) - [Hibernate](https://hibernate.org/)
 * ![IntelliJ Logo](https://raw.githubusercontent.com/JanCBredow/JanCBredow/master/intellij.png) - [IntelliJ](https://www.jetbrains.com/idea/)
 * ![Java Logo](https://raw.githubusercontent.com/JanCBredow/JanCBredow/master/java.png) - [Java](https://java.com/)
 * ![MySQL Logo](https://raw.githubusercontent.com/JanCBredow/JanCBredow/master/mysql.png) - [MySQL](https://mysql.com/)
@@ -32,6 +26,5 @@
 * ![Redis Logo](https://raw.githubusercontent.com/JanCBredow/JanCBredow/master/redis.png) - [Redis](https://redis.io/)
 * ![REST Logo](https://raw.githubusercontent.com/JanCBredow/JanCBredow/master/rest.png) - [REST](https://wikipedia.org/wiki/Rest)
 * ![Spigot Logo](https://raw.githubusercontent.com/JanCBredow/JanCBredow/master/spigot.png) - [Spigot](https://spigotmc.org/)
-* ![Visual Studio Code Logo](https://raw.githubusercontent.com/JanCBredow/JanCBredow/master/visual-studio-code.png) - [Visual Studio Code](https://code.visualstudio.com/)
 
 ##

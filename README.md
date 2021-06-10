@@ -17,7 +17,6 @@
 ## Stack
 
 * ![Bukkit Logo](https://raw.githubusercontent.com/JanCBredow/JanCBredow/master/bukkit.png) - [Bukkit](https://dev.bukkit.org/)
-* ![Bungeecord Logo](https://raw.githubusercontent.com/JanCBredow/JanCBredow/master/bungeecord.png) - [Bungeecord](https://www.spigotmc.org/wiki/bungeecord/)
 * ![GitHub Logo](https://raw.githubusercontent.com/JanCBredow/JanCBredow/master/github.png) - [GitHub](https://github.com/)
 * ![IntelliJ Logo](https://raw.githubusercontent.com/JanCBredow/JanCBredow/master/intellij.png) - [IntelliJ](https://www.jetbrains.com/idea/)
 * ![Java Logo](https://raw.githubusercontent.com/JanCBredow/JanCBredow/master/java.png) - [Java](https://java.com/)

@@ -19,7 +19,6 @@ heading directly to mars... like chillin around with elon musk and stuff...
 
 [![Languages](https://github-readme-stats.vercel.app/api/wakatime?username=7437a3c8-6e28-4e2f-999d-db031172ee45&hide_title=true&bg_color=0d1117&text_color=0d9fde&hide_border=true)](https://github.com/JanCBredow/)
 
-
 ## Stack
 
 * ![Bukkit Logo](https://raw.githubusercontent.com/JanCBredow/JanCBredow/master/bukkit.png) - [Bukkit](https://dev.bukkit.org/)

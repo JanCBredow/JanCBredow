@@ -4,7 +4,8 @@
 
 ## About Me
 
-22 y/o me was born near berlin but wanna leave, heading directly to mars... like chillin' around with elon musk and stuff...
+23 y/o me was born near berlin but wanna leave, 
+heading directly to mars... like chillin around with elon musk and stuff...
 
 ## Github Stats:
 
@@ -29,6 +30,5 @@
 * ![PostgreSQL Logo](https://raw.githubusercontent.com/JanCBredow/JanCBredow/master/postgresql.png) - [PostgreSQL](https://postgresql.org/)
 * ![Redis Logo](https://raw.githubusercontent.com/JanCBredow/JanCBredow/master/redis.png) - [Redis](https://redis.io/)
 * ![REST Logo](https://raw.githubusercontent.com/JanCBredow/JanCBredow/master/rest.png) - [REST](https://wikipedia.org/wiki/Rest)
-* ![Spigot Logo](https://raw.githubusercontent.com/JanCBredow/JanCBredow/master/spigot.png) - [Spigot](https://spigotmc.org/)
 
 ##

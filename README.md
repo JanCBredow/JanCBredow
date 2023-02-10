@@ -21,13 +21,13 @@ musk and stuff...
 
 ## Stack
 
-* ![Bukkit Logo](https://raw.githubusercontent.com/JanCBredow/JanCBredow/master/bukkit.png) - [Bukkit](https://dev.bukkit.org/)
-* ![GitHub Logo](https://raw.githubusercontent.com/JanCBredow/JanCBredow/master/github.png) - [GitHub](https://github.com/)
-* ![IntelliJ Logo](https://raw.githubusercontent.com/JanCBredow/JanCBredow/master/intellij.png) - [IntelliJ](https://www.jetbrains.com/idea/)
 * ![Java Logo](https://raw.githubusercontent.com/JanCBredow/JanCBredow/master/java.png) - [Java](https://java.com/)
 * ![MySQL Logo](https://raw.githubusercontent.com/JanCBredow/JanCBredow/master/mysql.png) - [MySQL](https://mysql.com/)
 * ![PostgreSQL Logo](https://raw.githubusercontent.com/JanCBredow/JanCBredow/master/postgresql.png) - [PostgreSQL](https://postgresql.org/)
 * ![Redis Logo](https://raw.githubusercontent.com/JanCBredow/JanCBredow/master/redis.png) - [Redis](https://redis.io/)
 * ![REST Logo](https://raw.githubusercontent.com/JanCBredow/JanCBredow/master/rest.png) - [REST](https://wikipedia.org/wiki/Rest)
+
+* ![IG Logo](https://raw.githubusercontent.com/JanCBredow/JanCBredow/master/ig.png) - [REST](https://instagram.com/jcbredow_wetzlar)
+
 
 ##

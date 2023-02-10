@@ -27,7 +27,7 @@ musk and stuff...
 * ![Redis Logo](https://raw.githubusercontent.com/JanCBredow/JanCBredow/master/redis.png) - [Redis](https://redis.io/)
 * ![REST Logo](https://raw.githubusercontent.com/JanCBredow/JanCBredow/master/rest.png) - [REST](https://wikipedia.org/wiki/Rest)
 
-* ![IG Logo](https://raw.githubusercontent.com/JanCBredow/JanCBredow/master/ig.png) - [REST](https://instagram.com/jcbredow_wetzlar)
+* ![IG Logo](https://raw.githubusercontent.com/JanCBredow/JanCBredow/master/ig.png) - [Instagram](https://instagram.com/jcbredow_wetzlar)
 
 
 ##

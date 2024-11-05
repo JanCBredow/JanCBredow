@@ -24,6 +24,9 @@ musk and stuff...
 - Softwareentwicklung in Java, PHP(Plain, Laravel)
 - Databases (MySQL, PostgreSQL, Cassandra, Redis)
 - Devops (SSH, UNIX Based Systems, provisionierung und administration von Servern)
+- Docker, VMWare, Proxmox
+- Kubernetes, Rancher
+- Terraform
+- Ansible
 - Projektmanagement
-
 ##

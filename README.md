@@ -19,11 +19,11 @@ musk and stuff...
 
 [![Languages](https://github-readme-stats.vercel.app/api/wakatime?username=7437a3c8-6e28-4e2f-999d-db031172ee45&hide_title=true&bg_color=0d1117&text_color=0d9fde&hide_border=true)](https://github.com/JanCBredow/)
 
-## Stack
+# Stack
 
-# Softwareentwicklung in Java, PHP(Plain, Laravel)
-# Databases (MySQL, PostgreSQL, Cassandra, Redis)
-# Devops (SSH, UNIX Based Systems, provisionierung und administration von Servern)
-# Projektmanagement
+- Softwareentwicklung in Java, PHP(Plain, Laravel)
+- Databases (MySQL, PostgreSQL, Cassandra, Redis)
+- Devops (SSH, UNIX Based Systems, provisionierung und administration von Servern)
+- Projektmanagement
 
 ##

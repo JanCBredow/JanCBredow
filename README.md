@@ -21,13 +21,9 @@ musk and stuff...
 
 ## Stack
 
-* ![Java Logo](https://raw.githubusercontent.com/JanCBredow/JanCBredow/master/java.png) - [Java](https://java.com/)
-* ![MySQL Logo](https://raw.githubusercontent.com/JanCBredow/JanCBredow/master/mysql.png) - [MySQL](https://mysql.com/)
-* ![PostgreSQL Logo](https://raw.githubusercontent.com/JanCBredow/JanCBredow/master/postgresql.png) - [PostgreSQL](https://postgresql.org/)
-* ![Redis Logo](https://raw.githubusercontent.com/JanCBredow/JanCBredow/master/redis.png) - [Redis](https://redis.io/)
-* ![REST Logo](https://raw.githubusercontent.com/JanCBredow/JanCBredow/master/rest.png) - [REST](https://wikipedia.org/wiki/Rest)
-
-* ![IG Logo](https://raw.githubusercontent.com/JanCBredow/JanCBredow/master/ig.png) - [Instagram](https://instagram.com/jcbredow_wetzlar)
-
+# Softwareentwicklung in Java, PHP(Plain, Laravel)
+# Databases (MySQL, PostgreSQL, Cassandra, Redis)
+# Devops (SSH, UNIX Based Systems, provisionierung und administration von Servern)
+# Projektmanagement
 
 ##

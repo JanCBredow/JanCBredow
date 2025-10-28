@@ -4,7 +4,7 @@
 
 ## About Me
 
-26 y/o me was born near berlin but wanna leave this planet, heading directly to mars... like chillin around with elon
+27 y/o me was born near berlin but wanna leave this planet, heading directly to mars... like chillin around with elon
 musk and stuff...
 
 ## Github Stats:

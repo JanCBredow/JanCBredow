@@ -4,8 +4,11 @@
 
 ## About Me
 
-27 y/o me was born near berlin but wanna leave this planet, heading directly to mars... like chillin around with elon
-musk and stuff...
+27 y/o 
+
+Devops aus Hamburg Mitte!
+
+Virtualisierung in Proxmox, AD, MDM - Mich bewegt alles
 
 ## Github Stats:
 
@@ -24,7 +27,7 @@ musk and stuff...
 - Softwareentwicklung in Java, PHP(Plain, Laravel)
 - Databases (MySQL, PostgreSQL, Cassandra, Redis)
 - Devops (SSH, UNIX Based Systems, provisionierung und administration von Servern)
-- Docker, VMWare, Proxmox
+- Docker, VMWare, Proxmox (omg proxmox zu geil), CEPH
 - Kubernetes, Rancher
 - Terraform
 - Ansible
